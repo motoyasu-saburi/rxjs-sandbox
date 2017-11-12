@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-sandbox",
+  "version": "0.0.1",
+  "description": "rxjs, typescript sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motoyasu-saburi/rxjs-sandbox.git"
+  },
+  "keywords": [
+    "typescript",
+    "rxjs"
+  ],
+  "author": "motoyasu-saburi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motoyasu-saburi/rxjs-sandbox/issues"
+  },
+  "homepage": "https://github.com/motoyasu-saburi/rxjs-sandbox#readme"
+}
