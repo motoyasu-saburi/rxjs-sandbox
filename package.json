@@ -6,6 +6,10 @@
   "scripts": {
     "test": "test"
   },
+  "devDependencies": {
+    "rxjs": "^5.0.0-beta.2",
+    "typescript": "2.6.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/motoyasu-saburi/rxjs-sandbox.git"
